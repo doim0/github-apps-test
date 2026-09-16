@@ -1,4 +1,8 @@
 {
   "test_title": "GitHub App 테스트",
-  "test_message": "수정 전 문구"
+  "test_message": "수정 전 문구",
+  "test_items": [
+    "첫 번째 항목",
+    "두 번째 항목"
+  ]
 }
