@@ -3,6 +3,12 @@
   "test_message": "string123123",
   "test_items": [
     "string",
+    "string2",
+    "string2",
+    "string2",
+    "string2",
+    "string2",
+    "string2",
     "string2"
   ]
 }
