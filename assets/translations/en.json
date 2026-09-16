@@ -3,6 +3,9 @@
   "test_message": "Text before editing",
   "test_items": [
     "First item",
-    "Second item"
+    "Second item",
+    "Third item",
+    "Fourth entry",
+    "Fifth entry"
   ]
 }

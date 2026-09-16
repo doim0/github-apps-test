@@ -2,7 +2,10 @@
   "test_title": "Thử nghiệm ứng dụng GitHub",
   "test_message": "Nội dung trước khi chỉnh sửa",
   "test_items": [
-    "Mục đầu tiên",
-    "Mục thứ hai"
+    "Bài đầu tiên",
+    "Nhập thứ hai",
+    "Bài thứ ba",
+    "Bài thứ tư",
+    "Bài thứ năm"
   ]
 }
