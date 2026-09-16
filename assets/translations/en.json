@@ -1,0 +1,8 @@
+{
+  "test_title": "GitHub App test",
+  "test_message": "Text before editing",
+  "test_items": [
+    "First item",
+    "Second item"
+  ]
+}
